@@ -1,3 +1,4 @@
 ﻿# e-commerce
 
-Este proyecto consiste en un e-commerce
+Landing tienda de ropa
+
