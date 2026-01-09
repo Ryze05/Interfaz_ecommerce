@@ -1,4 +1,4 @@
-﻿# e-commerce
+﻿# ecommerce
 
-Landing tienda de ropa
+Interfaz ecommerce
 
