@@ -12,4 +12,4 @@ This section showcases the visual design and key interactive components of the p
 ### Main Dashboard
 The landing page features a dark navigation bar, a search system, and a categorized product grid (Jackets, T-shirts, and Trousers).
 
-![Main Interface](https://via.placeholder.com/800x400?text=QuickTrade+Main+Dashboard)
+![Main Interface](screenshots/1.png)
