@@ -21,12 +21,12 @@ The landing page features a dark navigation bar, a search system, and a categori
 ### 2. Product Details (Modal)
 Users can view specific product information, adjust quantities, and see prices through an interactive modal window.
 
-![Product Modal](assets/img/screenshots/product_modal.png)
+![Product Modal](screenshots/2.png)
 
 ### 3. Dynamic Shopping Cart (Offcanvas)
 A side-cart menu allows users to manage their purchases, showing item details and the total price updated in real-time.
 
-![Cart View](assets/img/screenshots/cart_view.png)
+![Cart View](screenshots/3.png)
 
 ---
 
@@ -40,3 +40,4 @@ A side-cart menu allows users to manage their purchases, showing item details an
 * **Newsletter Integration**: A dedicated footer section for user engagement and social media connectivity.
 
 ---
+
